@@ -1,2 +1,1 @@
-# coding2 fall 2026
-unreal engine 5.8
+Unreal Engine project for my Coding 2 Class
